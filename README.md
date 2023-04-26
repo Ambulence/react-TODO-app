@@ -13,6 +13,7 @@
       JavaScript
       TypeScript
       RESTful API
+      SCSS
   
   ## Demo
 
